@@ -129,7 +129,6 @@ sudo apt-get install vim-gtk               # Ubuntu
 * [ctrlp](https://github.com/kien/ctrlp.vim) - Fuzzy file, buffer, mru and tag finder.
 * [powerline](https://github.com/Lokaltog/vim-powerline) - The ultimate vim statusline utility.
 * [fugitive](https://github.com/tpope/vim-fugitive/) - a Git wrapper so awesome, it should be illegal.
-* [syntastic](https://github.com/scrooloose/syntastic) - Syntax checking hacks for vim.
 
 ### Dependencie
 
