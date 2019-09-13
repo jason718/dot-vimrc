@@ -35,6 +35,7 @@ Bundle 'tpope/vim-surround'
 Bundle 'scrooloose/nerdcommenter'
 Bundle 'sjl/gundo.vim'
 Bundle 'godlygeek/tabular'
+Plugin 'plasticboy/vim-markdown'
 Bundle 'nathanaelkane/vim-indent-guides'
 
 "--------------
