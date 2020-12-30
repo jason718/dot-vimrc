@@ -54,7 +54,6 @@ Bundle 'bronson/vim-trailing-whitespace'
 "-------------
 " Other Utils
 "-------------
-" Bundle 'humiaozuzu/fcitx-status'
 Bundle 'nvie/vim-togglemouse'
 
 "----------------------------------------
@@ -77,7 +76,7 @@ Bundle 'nono/jquery.vim'
 " Bundle 'nono/vim-handlebars'
 
 "------- markup language -------
-Bundle 'tpope/vim-markdown'
+" Bundle 'tpope/vim-markdown'
 " Bundle 'timcharper/textile.vim'
 
 "------- Ruby --------
